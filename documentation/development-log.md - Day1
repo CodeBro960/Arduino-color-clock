@@ -1,1 +1,44 @@
+# Development Log
 
+## Day 1 — TFT Display
+
+### Goal
+
+Get the ILI9341 TFT display working with the Arduino Uno
+and learn how to display colored text.
+
+### Hardware
+
+- Arduino Uno R3
+- ILI9341 2.4" TFT display
+- Breadboard
+- Jumper wires
+
+### What I Did
+
+[Write what I did.]
+
+### Experiments
+
+- Display initialization
+- Displaying text
+- Changing text colors
+- Changing text position
+- Changing text size
+- Creating a fake clock display
+
+### Problems
+
+[Document anything that went wrong.]
+
+### Solutions
+
+[Explain how I fixed it.]
+
+### What I Learned
+
+[Write this in my own words.]
+
+### Next Step
+
+Connect and test the DS3231 RTC.
