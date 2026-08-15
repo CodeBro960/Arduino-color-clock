@@ -8,7 +8,6 @@ real-time clock module, and an ILI9341 TFT display.
 The clock will display:
 
 - Current time in 12-hour format
-- AM/PM
 - Day of the week
 
 My custom feature will allow the user to independently
